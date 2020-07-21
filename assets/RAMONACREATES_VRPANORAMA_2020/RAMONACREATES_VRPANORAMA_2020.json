@@ -1,0 +1,12 @@
+{
+	"sceneList" : [
+		[
+			"Outside",
+			"Scene_1"
+		],
+		[
+			"Inside",
+			"Scene_2"
+		]
+	]
+}
